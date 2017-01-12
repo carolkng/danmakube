@@ -1,0 +1,7 @@
+#Mon Dec 26 14:28:49 EST 2016
+base.0=/Users/home/Games/Danmakube/android/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_1ef93128c6de0eccb1ace39487d2bfdb8d10fd3f
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/home/Games/Danmakube/android/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_42de544eaf09d74a641e48db3f2f6c150b8dee89/classes.dex
+base.1=/Users/home/Games/Danmakube/android/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_42de544eaf09d74a641e48db3f2f6c150b8dee89
+file.0=/Users/home/Games/Danmakube/android/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_1ef93128c6de0eccb1ace39487d2bfdb8d10fd3f/classes.dex

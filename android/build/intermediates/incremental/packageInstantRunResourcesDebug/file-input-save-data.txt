@@ -1,0 +1,15 @@
+#Internal package file, do not edit.
+#Mon Dec 26 14:28:06 EST 2016
+1.base=/Users/home/Games/Danmakube/android/build/intermediates/res/resources-debug.ap_
+1.file=/Users/home/Games/Danmakube/android/build/intermediates/res/resources-debug.ap_/resources.arsc
+2.base=/Users/home/Games/Danmakube/android/build/intermediates/res/resources-debug.ap_
+3.set=ANDROID_RESOURCE
+2.set=ANDROID_RESOURCE
+2.file=/Users/home/Games/Danmakube/android/build/intermediates/res/resources-debug.ap_/res/drawable-xxhdpi-v4/ic_launcher.png
+count=4
+1.set=ANDROID_RESOURCE
+3.base=/Users/home/Games/Danmakube/android/build/intermediates/res/resources-debug.ap_
+0.set=ASSET
+0.base=/Users/home/Games/Danmakube/android/build/intermediates/assets/debug
+3.file=/Users/home/Games/Danmakube/android/build/intermediates/res/resources-debug.ap_/AndroidManifest.xml
+0.file=/Users/home/Games/Danmakube/android/build/intermediates/assets/debug/badlogic.jpg

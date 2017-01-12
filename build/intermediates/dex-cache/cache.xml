@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/home/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-box2d/1.9.5/c8098219abfe00b849cc43d461b1105fea3a2944/gdx-box2d-1.9.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c8098219abfe00b849cc43d461b1105fea3a2944">
+        <dex dex="/Users/home/Games/Danmakube/android/build/intermediates/transforms/dex/debug/folders/1000/10/gdx-box2d-1.9.5_d9fb1d377e011ff6d4e4f39edb60216d54186f92/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/home/Games/Danmakube/android/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3de77f02a4a6c861025da00dda348ea1609f00ef">
+        <dex dex="/Users/home/Games/Danmakube/android/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_1ef93128c6de0eccb1ace39487d2bfdb8d10fd3f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/home/Games/Danmakube/android/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0be008b9c21e988857469088641cb858960d3d70">
+        <dex dex="/Users/home/Games/Danmakube/android/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_42de544eaf09d74a641e48db3f2f6c150b8dee89/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/home/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-backend-android/1.9.5/293bbe05bfb5ca812c849e4d1f494f56509d5a6e/gdx-backend-android-1.9.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="293bbe05bfb5ca812c849e4d1f494f56509d5a6e">
+        <dex dex="/Users/home/Games/Danmakube/android/build/intermediates/transforms/dex/debug/folders/1000/10/gdx-backend-android-1.9.5_29058ef77674e27587736c2fa9d300a142c3b8cc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/home/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx/1.9.5/dc65bb2f51828c58b1b2b3ac585357204d54ee5f/gdx-1.9.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dc65bb2f51828c58b1b2b3ac585357204d54ee5f">
+        <dex dex="/Users/home/Games/Danmakube/android/build/intermediates/transforms/dex/debug/folders/1000/10/gdx-1.9.5_291887faa1c70b35498382ee538d90504ca8969a/classes.dex" />
+    </item>
+
+</items>
